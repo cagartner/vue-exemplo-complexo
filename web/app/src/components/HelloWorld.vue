@@ -14,7 +14,7 @@
         }
     }
 </script>
-
+<!-- Scoped vai limitar o estilo apenas para esse component -->
 <style scoped>
     .helloworld {
         width: 100%;
